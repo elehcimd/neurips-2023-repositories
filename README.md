@@ -1,4 +1,6 @@
-# neurips-2023-repositories
+# Repositories of NeurIPS 2023
+
+This list of repositories is sourced from 3500+ NeurIPS 2023 related projects as scraped in https://github.com/jacobmarks/awesome-neurips-2023.
 
 ```
 https://github.com/vitae-transformer/samrs.git
