@@ -1,4 +1,4 @@
-# NeurIPS 2023 GitHub repositories Collection: Unveiling the Future of Neural Information Processing Systems
+# NeurIPS 2023 GitHub Repositories Collection: Unveiling the Future of Neural Information Processing Systems
 
 This list of repositories is sourced from 3500+ NeurIPS 2023 related projects as scraped in the repository [awesome-neurips-2023](https://github.com/jacobmarks/awesome-neurips-2023). 
 As of Today 2023-12-14, all these repositories do exist. If yours is missing, please open a PR, Thank You!
