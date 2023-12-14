@@ -53,7 +53,6 @@ https://github.com/jeankaddour/notrainnogain.git
 https://github.com/sclbd/deepfakebench.git
 https://github.com/zkx06111/algo.git
 https://github.com/ascend-research/autogo.git
-https://github.com/wang-ml-lab/variational-imbalanced-regression.git
 https://github.com/haihuangcode/cmg.git
 https://github.com/jinga-lala/damex.git
 https://github.com/saitpublic/mlff-framework.git
@@ -111,7 +110,6 @@ https://github.com/dengzeshuai/srtta.git
 https://github.com/yule-buaa/dyglib.git
 https://github.com/zhendong-wang/prompt-diffusion.git
 https://github.com/huawei-noah/noah-research.git
-https://github.com/wang-ml-lab/unified-continual-learning.git
 https://github.com/ztcoalson/waffle.git
 https://github.com/prstrive/gens.git
 https://github.com/jintonggao/enhancing-minority-classes-by-mixing.git
@@ -408,7 +406,6 @@ https://github.com/yunx-z/situated_gen.git
 https://github.com/zanghyu/offline_bisimulation.git
 https://github.com/facebookresearch/mavil.git
 https://github.com/leaplabthu/famo2o.git
-https://github.com/intelligent-machine-learning/dlrover.git
 https://github.com/yukitakezawa/basegraph.git
 https://github.com/mrgiovanni/abdomenatlas.git
 https://github.com/huawei-noah/vanillanet.git
